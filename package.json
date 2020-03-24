@@ -1,6 +1,6 @@
 {
   "name": "automated-surge",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "less mess using surge.sh cli",
   "author": "Yash Kumar Verma <yk.verma2000@gmail.com>",
   "bin": "./lib/cli.js",
