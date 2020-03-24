@@ -1,15 +1,14 @@
 {
-  "name": "surge",
-  "version": "0.21.3",
-  "description": "CDN for front-end developers",
-  "author": "Brock Whitten <brock@chloi.io>",
+  "name": "hephaestus-share",
+  "version": "1.0.0",
+  "description": "share static files with people",
+  "author": "Yash Kumar Verma <yk.verma2000@gmail.com>",
   "bin": "./lib/cli.js",
   "dependencies": {
     "cli-table3": "^0.5.1",
-    "surge-fstream-ignore": "^1.0.6",
     "inquirer": "^6.2.2",
     "is-domain": "0.0.1",
-    "minimist": "1.1.1",
+    "minimist": "^1.2.5",
     "moniker": "0.1.2",
     "netrc": "0.1.4",
     "progress": "1.1.8",
@@ -17,6 +16,7 @@
     "read": "1.0.5",
     "request": "^2.88.0",
     "split": "0.3.1",
+    "surge-fstream-ignore": "^1.0.6",
     "surge-ignore": "0.2.0",
     "tarr": "1.1.0",
     "url-parse-as-address": "1.0.0"
@@ -25,6 +25,7 @@
     "commander": "2.9.0",
     "mocha": "^5.2.0",
     "nixt": "^0.5.1",
+    "prettier": "2.0.2",
     "should": "7.1.0",
     "yargs": "3.30.0"
   },
@@ -39,6 +40,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sintaxi/surge.git"
+    "url": "https://github.com/yashkumarverma/sintaxi/surge.git"
   }
 }
